@@ -33,7 +33,7 @@ def main():
 		t.daemon = True
 		t.start()
 		print("Thread n°" + str(i) + " launched")
-		time.sleep(3)
+		time.sleep(random.uniform(3.4,5.2))
 	while not active_threads == 0:
 		print('Active Threads ----..---- ' + str(active_threads))
 		time.sleep(5)
