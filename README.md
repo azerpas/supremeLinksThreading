@@ -9,8 +9,8 @@ You can choose how many threads will scrape at the same time. There's a delay be
 
 TO,DO:
 
-- Handle exceptions.
-- Delete colors from JSON data.
+- Handle exceptions. --- < 20%
+- Delete colors from JSON data.  --- < DONE
 - Add non stop scraping until user decides to end it. 
-- Proxy support
-- Save it to a file for educational purpose only
+- Proxy support.
+- Save it to a file for educational purpose only.   --- < DONE
