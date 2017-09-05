@@ -5,7 +5,7 @@ Uses BeautifulSoup, Requests, JSON, time, threading
 
 This bot will use threading module to scrape URL from Supreme webshop and output it in JSON format ('item':'itemURL')
 
-You can choose how many threads will scrape at the same time. There's a delay between every thread launching. 
+You can choose how many threads will scrape at the same time. There's a delay between every thread launching, so every thread will most likely looking to another page.
 
 TO,DO:
 
