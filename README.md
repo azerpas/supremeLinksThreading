@@ -13,3 +13,4 @@ TO,DO:
 - Delete colors from JSON data.
 - Add non stop scraping until user decides to end it. 
 - Proxy support
+- Save it to a file for educational purpose only
