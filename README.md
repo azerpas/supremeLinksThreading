@@ -12,3 +12,4 @@ TO,DO:
 - Handle exceptions.
 - Delete colors from JSON data.
 - Add non stop scraping until user decides to end it. 
+- Proxy support
